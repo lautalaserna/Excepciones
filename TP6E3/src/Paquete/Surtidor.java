@@ -13,7 +13,7 @@ public class Surtidor {
 
 	public Surtidor() {
 		this.cantGasoil = tope;
-		this.cantSuper = tope;
+		this.cantSuper = tope; 
 		this.cantPremium = tope;
 	}
 
