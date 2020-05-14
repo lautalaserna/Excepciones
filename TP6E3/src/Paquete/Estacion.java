@@ -10,7 +10,7 @@ public class Estacion {
 	private Estacion() {
 	}
 
-	public static Estacion getInstance() {
+	public static Estacion getInstance() { 
 		if (instance == null)
 			Estacion.instance = new Estacion();
 		return instance;
