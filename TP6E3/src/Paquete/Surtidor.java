@@ -11,7 +11,7 @@ public class Surtidor {
 	private int cantPremium;
 	private static int tope = 20000;
 
-	public Surtidor() {
+	public Surtidor() { 
 		this.cantGasoil = tope; 
 		this.cantSuper = tope;
 		this.cantPremium = tope;
